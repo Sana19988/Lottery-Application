@@ -1,4 +1,4 @@
-**Lottery Application**
+##Lottery Application##
 
 *Description*
 
@@ -17,10 +17,11 @@ Technologies:
 1.	Download or clone the repository.
 2.	In Rider, make sure you have the .NET Core plugin installed.
 3.	Restore the NuGet packages if necessary.
+4.	Otherwise, in other editors plugins will be initiazed when opening the application
 
 *Database*
 
-Be sure if missing to install package: Microsoft.EntityFrameworkCore.SqlServer for the application to be able to run properly. Database will be created on Application start. 
+Be sure if missing to install package: Microsoft.EntityFrameworkCore.SqlServer for the application to be able to run properly. Database will be created on Application start. Be sure to have MSSQL Sever installed and running. 
 
 *Running the application*
 
