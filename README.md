@@ -21,7 +21,7 @@ Technologies:
 
 *Database*
 
-Be sure if missing to install package: Microsoft.EntityFrameworkCore.SqlServer for the application to be able to run properly. Database will be created on Application start. Be sure to have MSSQL Sever installed and running. 
+Be sure if missing to install packages: Microsoft.EntityFrameworkCore, Microsoft.EntityFrameworkCore.SqlServer for the application to be able to run properly. Database will be created on Application start. Be sure to have MSSQL Sever installed and running. 
 
 *Running the application*
 
