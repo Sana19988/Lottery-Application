@@ -1,4 +1,4 @@
-##Lottery Application##
+## Lottery Application 
 
 *Description*
 
