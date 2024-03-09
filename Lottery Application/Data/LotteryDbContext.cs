@@ -11,7 +11,7 @@ public class LotteryDbContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            string connectionString = "Server=localhost\\SQLEXPRESS;Database=lotteryDB;Trusted_Connection=True;TrustServerCertificate=True;";
+            string connectionString = "Server=.\\SQLEXPRESS;Database=lotteryDB;Trusted_Connection=True;TrustServerCertificate=True;";
             optionsBuilder.UseSqlServer(connectionString);
         }
     }
